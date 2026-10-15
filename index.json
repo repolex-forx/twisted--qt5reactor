@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "qt5reactor",
+  "versions": [
+    {
+      "commit": "300a382b08097ec5933717cac09707957b80cfad",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:50:02.609848+00:00"
+    }
+  ]
+}
