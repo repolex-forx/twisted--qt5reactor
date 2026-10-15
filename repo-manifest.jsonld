@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/qt5reactor/commit/300a382b08097ec5933717cac09707957b80cfad",
       "git:hexsha": "300a382b08097ec5933717cac09707957b80cfad",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T14:50:02.561801+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/qt5reactor/commit/be7787f3975bb901c6ee7ad316802d2af4fce771",
